@@ -1,4 +1,4 @@
-# HacktoberFest 2022: First Push
+# HacktoberFest 2022
 
 ![Hacktoberfest 2022](.github/EmailBanners-Dark.png)
 
@@ -10,12 +10,12 @@
 
 <!-- ![Hacktoberfest2022](https://img.shields.io/badge/HacktoberFest-2022-blueviolet) -->
 
-
-## Welcome to this year's HacktoberFest 
+## Welcome to this year's HacktoberFest
 
 A beginner-friendly repository to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2022!
 
 ## ❓ What's Hacktoberfest 2022?
+
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2022.
 
 During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
@@ -34,7 +34,6 @@ Wait there's more!
 ## 🎯Objectives
 
 The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
-
 
 ## 📝 Contribution Guidelines
 
